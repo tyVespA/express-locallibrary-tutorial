@@ -1,3 +1,0 @@
-mmpotto
-YTTbgrEsiCbYWnrF
-mongodb+srv://mmpotto:YTTbgrEsiCbYWnrF@cluster0.oierxdg.mongodb.net/local_library?retryWrites=true&w=majority
